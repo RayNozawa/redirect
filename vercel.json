@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://r-nozawa-shani.hf.space",
+      "permanent": true
+    }
+  ]
+}
