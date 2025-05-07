@@ -4,6 +4,11 @@
       "source": "/(.*)",
       "destination": "https://r-nozawa-shani.hf.space",
       "permanent": true
+    },
+    {
+      "source": "/chat",
+      "destination": "https://r-nozawa-shani.hf.space/chat",
+      "permanent": true
     }
   ]
 }
