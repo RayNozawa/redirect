@@ -9,6 +9,11 @@
       "source": "/(.*)",
       "destination": "https://r-nozawa-shani.hf.space",
       "permanent": true
+    },
+    {
+      "source": "/sharing-code",
+      "destination": "https://r-nozawa-sharing.hf.space",
+      "permanent": "true
     }
   ]
 }
