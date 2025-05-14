@@ -13,7 +13,7 @@
     {
       "source": "/sharing-code",
       "destination": "https://r-nozawa-sharing.hf.space",
-      "permanent": "true
+      "permanent": true
     }
   ]
 }
