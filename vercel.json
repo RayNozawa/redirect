@@ -11,7 +11,7 @@
       "permanent": true
     },
     {
-      "source": "/sharing-code",
+      "source": "/sharing",
       "destination": "https://r-nozawa-sharing.hf.space",
       "permanent": true
     }
