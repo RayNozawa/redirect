@@ -6,13 +6,13 @@
       "permanent": true
     },
     {
-      "source": "/(.*)",
-      "destination": "https://r-nozawa.hf.space/ai",
+      "source": "/sharing",
+      "destination": "https://r-nozawa-sharing.hf.space",
       "permanent": true
     },
     {
-      "source": "/sharing",
-      "destination": "https://r-nozawa-sharing.hf.space",
+      "source": "/(.*)",
+      "destination": "https://r-nozawa.hf.space/ai",
       "permanent": true
     }
   ]
