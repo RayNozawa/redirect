@@ -7,7 +7,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "https://r-nozawa.hf.space",
+      "destination": "https://r-nozawa.hf.space/ai",
       "permanent": true
     },
     {
