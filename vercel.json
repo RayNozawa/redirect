@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/chat",
-      "destination": "https://r-nozawa-shani.hf.space/chat",
+      "destination": "https://r-nozawa.hf.space/chat",
       "permanent": true
     },
     {
       "source": "/(.*)",
-      "destination": "https://r-nozawa-shani.hf.space",
+      "destination": "https://r-nozawa.hf.space",
       "permanent": true
     },
     {
